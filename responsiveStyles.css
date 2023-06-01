@@ -1,0 +1,19 @@
+@media screen and (max-width: 788px) {
+    .meme-generator h2{
+        font-size: 40px;
+    }
+    .meme-generator img{
+        height: auto;
+        width: 100%;
+        object-fit: cover;
+    }
+    .memeDiv{
+        height: auto;
+    }
+    .meme-generator h2{
+        font-size: 30px;
+    }
+    .meme-generator h1{
+        font-size: 20px;
+    }
+}
